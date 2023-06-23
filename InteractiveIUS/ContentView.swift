@@ -26,7 +26,6 @@ struct ContentView: View {
             .padding()
         
             Button("Submit") {
-                textTitle.("Welcome,\(name)
             }
             .font(.title2)
             .buttonStyle(.borderedProminent)
